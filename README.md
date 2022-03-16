@@ -1,6 +1,6 @@
 # Diary_WinForm
 - DatePicker 기능
-- 메시지 박스 기능
+- 알람 기능(MessageBox)
 - 입력 기능
 
 ![image](https://user-images.githubusercontent.com/65011438/158513765-c97996b7-f38a-4b48-81d8-8f5a2fff8508.png)
